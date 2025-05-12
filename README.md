@@ -27,4 +27,4 @@ A simple Python script that generates random Discord Nitro gift codes and checks
 
 1. Run the script:
    ```bash
-   python main.py
+   python3 main.py
